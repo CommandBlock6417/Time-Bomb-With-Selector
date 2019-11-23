@@ -1,5 +1,5 @@
 # Time-Bomb-With-Selector
-This a more complicated version of the time-bomb program that I made two days later.
+This a more complicated version of the time-bomb program that I made.
 
 Description: this is a bomb ( that detonates only acoustically and is very nervewracking) that I made on the 19-23/11/2019, when I was twelve years old.
  I made it by using Bodging, a technique I learned from youtuber Tom Scott. I first made the code for the buzzer, then the countdown and finally, the most tedious of them all, the "select time" part.
