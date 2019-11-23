@@ -5,6 +5,7 @@ void setup() {
     lcd.begin(16,2);  //columns and rows of the lcd display 
     do {
      timeSet(); //refreshes the values of the button and potentiometer
+     lcd.clear();//clears the lcd for stability in display (removes the secondsss effect)
      lcd.setCursor(0, 0); //col, row
      lcd.print("Select time:");
      lcd.setCursor(0, 1); //col, row

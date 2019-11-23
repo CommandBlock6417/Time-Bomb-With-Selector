@@ -13,7 +13,7 @@ CountUpDownTimer T(DOWN); //makes a new timer named "T" and sets it to countdown
 void timeSet(){
   buttonState = digitalRead(buttonPin);
   knobReading = analogRead(knobPin);
-  timeSecs = ((knobReading * 1024) / 1500);
+  timeSecs = ((knobReading * 600) / 1010); //converts the input of the potentiometer (~0-1023) to ~0-600 seconds
   Serial.print("time is set to: ");
   Serial.print(timeSecs);
   Serial.println(" seconds");
