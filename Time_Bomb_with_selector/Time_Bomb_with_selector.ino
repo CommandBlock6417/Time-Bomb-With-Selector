@@ -1,7 +1,7 @@
 /*
  * Project by Panos Koutsoumanis (aka CommandBlock6417)
  * last edited on 23/11/2019
- * for a simpler version with no selector visit 
+ * for a simpler version with no selector visit https://github.com/CommandBlock6417/Time-Bomb
  * 
  * Parts required:
  *   24x cables
