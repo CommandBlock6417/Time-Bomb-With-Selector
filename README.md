@@ -1,11 +1,5 @@
 # Time-Bomb-With-Selector
-This a more complicated version of the time-bomb program that I made. https://github.com/CommandBlock6417/Time-Bomb
-Description: this is a bomb ( that detonates only acoustically and is very nervewracking) that I made on the 19-23/11/2019, when I was twelve years old.
- I made it by using Bodging, a technique I learned from youtuber Tom Scott. I first made the code for the buzzer, then the countdown and finally, the most tedious of them all, the "select time" part.
- It is not that useful but I think it's pretty cool.
-Here is how it works:
-                It starts by asking you to select the time that you want to countdown from using the potentiometer, value is in seconds.
-                Then, you press the red button and the countdown starts.
-                Once the countdown finishes, the "bomb" emits a very annoying sound that will wrack anyone's nerves.
-NOTE: This NOT a weapon of mass destruction. 
-      It is only used for mental destruction, if one wants to mess with another's nerves.
+
+**This project is archived**
+
+You can view the original code that I wrote in November 2019, at the age of twelve by browsing the [v1.0 tag archive](https://github.com/Devnol/Time-Bomb-With-Selector/releases/tag/v1.0). While it does work, it is fairly janky and hard to read. You can take a look at the new code in the [Time-Bomb](https://github.com/Devnol/Time-Bomb) repository.
